@@ -1,6 +1,7 @@
 
-<response>
-# Can you give me a diagram of a data architecture for Big Data including the ingestion with a pipeline, the cloud components involved and also the destination DBs in terms of querying for historical purposes and streaming real-time data?
+## Question
+
+Can you give me a diagram of a data architecture for Big Data including the ingestion with a pipeline, the cloud components involved and also the destination DBs in terms of querying for historical purposes and streaming real-time data?
 
 ## 🗒️ Answer
 
